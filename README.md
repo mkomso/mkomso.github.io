@@ -2,4 +2,4 @@
 
 Ovdje će se nalaziti HTML, CSS, a možda i Javascript, koji čini moju osobnu stranicu.
 
-Adresa osobne web stranice jest https://github.com/Matej Mikašinović-Komšo/mkomso.github.io.git 
+Adresa osobne web stranice jest https://github.com/Matej_Mikašinović-Komšo/mkomso.github.io.git 
