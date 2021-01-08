@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    background-color: azure;
+}
+
+footer{
+    margin: 0px;
+}
+
+.izbornik{
+    display: flex;
+    text-align: center;
+    margin-left: 485px;
+    }
+
+.izbornik_opcija{
+    margin: 25px;
+    }
+
+.index_slika{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.about_me{
+    text-align: justify;
+    margin: 15px 500px;
+    padding: 10px;
+    border: 3px solid blanchedalmond;
+    background-color: cornsilk;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.footer{
+    background-color: lightslategray;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.pre_exp_jobname{
+color: rgb(56, 55, 55);
+font-size: large;
+}
+
+.pre_exp_jobdescription{
+    margin-right: 500px;
+    text-align: justify;
+}
+
+.pre_exp_job{
+    margin: 7px;
+}
