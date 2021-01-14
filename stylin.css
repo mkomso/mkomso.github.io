@@ -59,6 +59,11 @@ footer{
     font-family: "Lato", sans-serif;
   }
 
+  .footer-rest a:hover{
+    border-bottom: 1px solid black;
+    color: black;  
+  }
+
 .pre_exp_jobname{
 color: rgb(56, 55, 55);
 font-size: large;
@@ -86,4 +91,9 @@ font-size: large;
 
 .grid-item{
     padding: 5%;
+}
+
+.research-link a:hover{
+    border-bottom: 1px solid black;
+    color: black;
 }
